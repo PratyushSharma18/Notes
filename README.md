@@ -1,4 +1,5 @@
 # Notes
+![appIcon](https://github.com/user-attachments/assets/7285b7d6-8b52-4474-b33b-e916856bf98e)
 
 ## Overview
 Notes is an innovative advanced application better than traditional notes applications. It is an Android Kotlin-based application designed for performing CRUD operations on notes in a unique user-authenticated MongoDB remote database. The application uses an API hosted on Render for performing operations on the database.
