@@ -24,9 +24,9 @@ Notes is an innovative advanced application better than traditional notes applic
 - **Jetpack Compose:** Used for building the UI, providing a modern and declarative approach to designing the user interface.
 
 ### Backend
-- **Firebase Authentication:** Handles user management including signup, login, and authentication.
-- **Firebase Firestore:** A NoSQL document database for storing user data, match details, and chat messages.
-- **Firebase Storage:** Used for storing user profile images securely.
+- **MongoDb Authentication:** Handles user management including signup, login, and authentication.
+- **MongoDb Datastore:** A NoSQL document database for storing user data, match details, and chat messages.
+- **MongoDb Storage:** Used for storing user profile images securely.
 
 ### Implementations/Usages
 - **Hilt-Dagger:** Used for dependency injection.
