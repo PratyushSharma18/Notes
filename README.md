@@ -21,7 +21,6 @@ Notes is an innovative advanced application better than traditional notes applic
 ### Frontend
 - **Kotlin:** The app is fully developed using Kotlin, providing modern language features and improved performance.
 - **XML:** Used for designing the user interface.
-- **Jetpack Compose:** Used for building the UI, providing a modern and declarative approach to designing the user interface.
 
 ### Backend
 - **MongoDb Authentication:** Handles user management including signup, login, and authentication.
